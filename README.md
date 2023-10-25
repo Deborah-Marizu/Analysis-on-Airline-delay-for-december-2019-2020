@@ -48,7 +48,9 @@ A donut chart was created to show the proportion of delays between the two years
 3.	What is the total number of cancelled flight and flight diversion in 2019 and 2020?
    
 In year 2019, cancelled flight was 5793, and flight diverted was 1358 while for year 2020, cancelled flight was lower with 3850 and diverted flight was 567. There was a massive drop in the cancelled flight and diverted flight in 2020 with 1943 and 791 respectively.
-                           
+
+![total no of cancelled flight](https://github.com/Deborah-Marizu/Analysis-on-Airline-delay-for-december-2019-2020/assets/147628427/9b088ff3-8d1a-4f1c-97b9-f3020bdedb43)
+        
 A clustered chart was created to show both the cancelled flight and diverted flight for both year and to make comparison.
 
 4.	What are the top five airport with the most delays?
